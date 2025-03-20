@@ -1,5 +1,5 @@
 # diabetic-model
-a model that can predict the risk of having diabetes in patients based on various health factors.
+A model that can predict the risk of having diabetes based on various health factors.
 
 This repository contains a machine learning model designed to predict whether an individual is at risk of diabetes based on various health factors.
 
