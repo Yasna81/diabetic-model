@@ -9,7 +9,8 @@ This project uses machine learning techniques to predict the likelihood of diabe
 [hosmer-tets](plots/hosmer-tets)
 
 
-![image](https://github.com/user-attachments/assets/9d0e2da2-46b6-4c23-bcb6-33ea353b23fd)
+![image](https://github.com/user-attachments/assets/d3918bb6-f10d-4317-997d-8532763cdd16)
+
 
 
 1.Defining the Problem and Setting Up the Data
