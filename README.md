@@ -8,6 +8,10 @@ This repository contains a machine learning model designed to predict whether an
 This project uses machine learning techniques to predict the likelihood of diabetes based on a set of health-related inputs. The model was trained on [] and can be used to predict the risk of diabetes for new inputs.
 [hosmer-tets](plots/hosmer-tets)
 
+
+![image](https://github.com/user-attachments/assets/9d0e2da2-46b6-4c23-bcb6-33ea353b23fd)
+
+
 1.Defining the Problem and Setting Up the Data
 We started with the goal of predicting whether there is a correlation between Glucose level and other factors,and if someone has diabetes based on various predictors, including glucose levels, BMI, age, blood pressure, insulin, etc.
 
