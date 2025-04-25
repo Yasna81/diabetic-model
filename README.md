@@ -5,7 +5,7 @@ This repository contains a machine learning model designed to predict whether an
 
 ## Description
 
-This project uses machine learning techniques to predict the likelihood of diabetes based on a set of health-related inputs. The model was trained on [] and can be used to predict the risk of diabetes for new inputs.
+This project uses machine learning techniques to predict the likelihood of diabetes based on a set of health-related inputs. The model was trained on diabetic data and can be used to predict the risk of diabetes for new inputs.
 [hosmer-tets](plots/hosmer-tets)
 
 
