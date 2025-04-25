@@ -52,6 +52,8 @@ _5.2 ROC Curve & AUC:_
 We plotted the ROC curve and calculated the AUC (Area Under the Curve) to assess how well the model distinguishes between diabetes and non-diabetes.
 
 * AUC closer to 1 indicates a good model.
+
+  
 _5.3 Interpretation of Model Coefficients:_
 
 We examined the model’s coefficients to understand the relationships between each predictor and the log odds of diabetes.
