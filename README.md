@@ -1,7 +1,7 @@
 # diabetic-model
 A model that can predict the risk of having diabetes based on various health factors.
 
-This repository contains a machine learning model designed to predict whether an individual is at risk of diabetes based on various health factors.
+This repository contains a machine learning model designed to predict whether an individual is at risk of diabetes based on [data](https://github.com/Yasna81/diabetic-model/blob/main/diabetes.csv) various health factors.
 
 ## Description
 
